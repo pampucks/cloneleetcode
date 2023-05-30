@@ -1,4 +1,5 @@
-<h1>Membuat website seperti <a href="https://leetcode.com/explore" target="_blank">LeetCode</a></h1> 
+# Clone Website LeetCode
+<h1>Membuat website seperti <a href="https://leetcode.com/explore" target="_blank">LeetCode</a></h1>
 <h3>Menggunakan React, NextJS, TypeScript, TailwindCSS, dan Firebase.</h3>
 <p>Sumber belajar dari : <br>
 <ul>
